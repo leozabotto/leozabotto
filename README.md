@@ -1,5 +1,9 @@
 ### Hey there 👋
 
+"Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road." - *Stewart Brand*
+
+At this moment I'm part of the road, but someday I'll be part of the steamroller. For that I'll never give up and I'll keep working hard to reach my goals.
+
 #### Formation
 
 🎓 Computer Technician  ✔  
