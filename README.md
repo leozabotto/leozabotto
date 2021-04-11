@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**leozabotto/leozabotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 18y
 
-Here are some ideas to get you started:
+🎓 Computer Technician  ✔
+🎓 Information Systems 🔜✔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Control iD - Technical Support Analyst (Since 2020/12)
+🔜 FullStack JavaScript Developer
+
+🔭 I’m currently working on a very special project, more info soon. 😁
+
+🌱 Learning NodeJS, React and React Native.
