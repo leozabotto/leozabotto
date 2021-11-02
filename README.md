@@ -12,13 +12,13 @@ At this moment I'm part of the road, but someday I'll be part of the steamroller
 
 #### Professional Experience
 
-💼 Control iD - Technical Support Analyst (Since 2020/12)  
+💼 Control iD - Technical Support Analyst (2020-12 -- 2021-04)  
 
-🔜 FullStack JavaScript Developer  
+💼 FullStack JavaScript Developer Freelancer at GestFacil (since 2021-04)
 
 #### What am I doing now?
 
-🔭 I’m currently working on a very special project, more info soon!  
+🔭 I’m currently working on a very special project, it's a financial platform. 
 
 🌱 Focused on learning NodeJS, React and React Native.  
 
