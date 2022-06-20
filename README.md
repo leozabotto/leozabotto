@@ -1,3 +1,3 @@
 ### Hey there 👋
 
-[UPDDATE IN PROGRESS] :)
+[UPDATE IN PROGRESS] :)
