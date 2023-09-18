@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  Do you have dreams? I have so many... And I'm working hard to make them real. 
+  Do you have dreams? I have so many... And I'm working hard to make them real.<br/>
   What about you?
 </div>
 
