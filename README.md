@@ -6,7 +6,8 @@
 </div>
 
 <div>
-  ** README IN PROGRESS ** 
+  Do you have dreams? I have so many... And I'm working hard to make them real. 
+  What about you?
 </div>
 
 <br>
